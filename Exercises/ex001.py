@@ -3,3 +3,7 @@
 print("Hello, World")
 
 #Output: Hello, World
+
+
+msg = "Hello, World"
+print(msg)
